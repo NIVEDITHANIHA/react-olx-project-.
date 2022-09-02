@@ -1,12 +1,10 @@
-import React from 'react';
-import Todo from './Todo App/Todo';
-import 'bootstrap/dist/css/bootstrap.min.css';
-function App() {
-  return (
-    <div className='App'>
-      <Todo/>
+import React from "react";
+import Todo from "./Todo components/Todo";
+function App(){
+  return(
+    <div>
+        <Todo/>
     </div>
-  )
+  );
 }
-
-export default App
+export default App;
