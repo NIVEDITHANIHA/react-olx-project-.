@@ -1,9 +1,15 @@
 import React from "react";
-import Todo from "./Todo components/Todo";
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Products from "./Products/Products";
+import { Container } from 'react-bootstrap';
 function App(){
   return(
-    <div>
-        <Todo/>
+    <div className=" App">
+      <Container>
+      < Products />
+      </Container>
+    
+      
     </div>
   );
 }
