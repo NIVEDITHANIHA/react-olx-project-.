@@ -2,7 +2,7 @@
   "name": "react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://NIVEDITHANIHA.github.io/weather-app-react",
+  "homepage": "http://NIVEDITHANIHA.github.io/Netflix-page-react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
